@@ -1,0 +1,44 @@
+body{
+    background-image: url(pic.webp);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+}
+form{
+    border: solid 1px;
+    width: 400px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(18, 126, 129);
+}
+label{
+    font-size: 22px;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: palevioletred;
+    border-radius: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: darksalmon;
+}
+p{
+    color: rgb(117, 61, 117);
+    font-size: 22px;
+    font-weight: bold;
+}
